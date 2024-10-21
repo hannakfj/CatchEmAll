@@ -30,7 +30,7 @@ Make sure you have the following installed on your computer:
     git clone https://github.com/hannakfj/CatchEmAll.git
     cd catchemall
 ### 2. Starting the app
-Make sure you are in the root directory "CATCHEMALL" before running the following commands.
+Make sure you are in the root directory "catchemall" before running the following commands.
 ### Install dependencies and building the app
 #### Client
         cd client
