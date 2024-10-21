@@ -7,6 +7,7 @@ Make sure you have the following installed on your computer:
 * **Node.js:**  (v14 or higher) Download here: https://nodejs.org/en/download/package-manager
 * **npm:** Node's package manager, which comes with Node.js.
 
+
 ## Structure
 
     CATCHEMALL/
@@ -22,7 +23,13 @@ Make sure you have the following installed on your computer:
     │       └── server.ts     # Main Express server file
     └── README.md             
 
-## Starting the app
+## Getting Started
+
+### 1. Clone the Repository
+
+    git clone https://github.com/hannakfj/CatchEmAll.git
+    cd catchemall
+### 2. Starting the app
 Make sure you are in the root directory "CATCHEMALL" before running the following commands.
 ### Install dependencies and building the app
 #### Client
