@@ -17,7 +17,7 @@ Make sure you have the following installed on your computer:
     │   ├── components/       # Reusable components
     │   ├── pages/            # Page components
     │   ├── services/         # API services
-    │   ├── types/            # TypeScript types
+    │   ├── types/            
     ├── server/               # Backend (Express + TypeScript)
     │   ├── src        
     │       └── server.ts     # Main Express server file
