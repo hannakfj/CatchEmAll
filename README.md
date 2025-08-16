@@ -1,6 +1,4 @@
 # Pokémon Application - Don't Cache 'Em All
-This is a Pokémon app built using React with TypeScript on the frontend and Express with TypeScript on the backend. It fetches data from Pokeapi (https://pokeapi.co/) 
-
 
 ## Requirements
 Make sure you have the following installed on your computer:  
