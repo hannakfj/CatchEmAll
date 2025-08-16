@@ -16,7 +16,7 @@ Make sure you have the following installed on your computer:
     │   ├── pages/            # Page components
     │   ├── services/         # API services
     │   ├── types/            
-    ├── server/               # Backend (Express + TypeScript)
+    ├── server/              
     │   ├── src        
     │       └── server.ts     # Main Express server file
     └── README.md             
